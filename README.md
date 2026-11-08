@@ -1,13 +1,32 @@
+<div align="center">
+
 # Deni Rahmadana
 
-Saya mengerjakan proyek web dan perangkat terhubung, dari situs komunitas hingga sistem absensi berbasis RFID.
+**Web Development · Robotika & IoT · Infrastruktur Jaringan**
 
-[Website IT Club Nedukabta](https://itclubnedukabta.vercel.app/)
+[Website IT Club](https://itclubnedukabta.vercel.app/) · [Repositori GitHub](https://github.com/denirahmadana39-x?tab=repositories)
+
+</div>
+
+## Tentang saya
+
+Saya siswa kelas 12 Teknik Komputer dan Jaringan (TKJ) di SMKN 2 Kabupaten Tangerang. Saya mengerjakan aplikasi web, sistem berbasis mikrokontroler, dan otomasi untuk home lab.
+
+**Juara 1 LKS Mobile Robotics tingkat Kabupaten Tangerang.** Saya terbuka untuk kolaborasi open source, proyek web organisasi, dan pengembangan sistem tertanam.
 
 ## Proyek pilihan
 
-| Proyek | Yang saya kerjakan |
-| --- | --- |
-| [IT Club Nedukabta](https://itclubnedukabta.vercel.app/) | Situs klub dengan halaman divisi, materi belajar, kuis, dan ruang chat anggota. |
-| [IT Club RFID Attendance](https://github.com/denirahmadana39-x/itclub-rfid-attendance-2026) | Sistem absensi anggota menggunakan ESP32, pembaca kartu RC522, dan pencatatan lewat Wi-Fi. |
-| [Landing Page Babanet](https://github.com/denirahmadana39-x/LandingPage-Babanet) | Halaman informasi Babanet yang dibangun dengan JavaScript. |
+| Proyek | Fokus | Teknologi |
+| :--- | :--- | :--- |
+| [Portal IT Club Nedukabta](https://itclubnedukabta.vercel.app/) | Portal klub dengan materi belajar, kuis, dan ruang chat anggota. | React, Vite, Tailwind CSS, Node.js |
+| [IT Club RFID Attendance](https://github.com/denirahmadana39-x/itclub-rfid-attendance-2026) | Sistem pencatatan kehadiran anggota lewat kartu RFID dan Wi-Fi. | ESP32, RC522, Next.js |
+| Robot Otonom LKS | Navigasi otonom, kontrol motor, dan kalibrasi sensor untuk lomba Mobile Robotics. | Arduino, C++, sensor |
+| Home Lab & Automation | Virtualisasi, pengelolaan kontainer, otomasi n8n dan WAHA, serta akses jaringan jarak jauh. | Proxmox, Docker, Linux, Tailscale |
+
+## Teknologi
+
+- **Web** · Next.js App Router, React, JavaScript, Tailwind CSS, Node.js, Vercel
+- **Robotika & IoT** · Arduino, ESP32, RFID, C++, Python
+- **Jaringan & infrastruktur** · Linux, Ubuntu, Debian, Proxmox, Docker, Cloudflare, Tailscale, Git
+
+[Landing Page Babanet](https://github.com/denirahmadana39-x/LandingPage-Babanet) · [Absensi berbasis kamera](https://github.com/denirahmadana39-x/presensi-cam)
